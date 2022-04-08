@@ -22,5 +22,8 @@
     "dependencies": {
         "express": "^4.17.3",
         "sass": "^1.50.0"
+    },
+    "devDependencies": {
+        "@parcel/transformer-sass": "^2.0.0-rc.0"
     }
 }
