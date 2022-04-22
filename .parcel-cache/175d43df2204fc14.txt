@@ -1,4 +1,4 @@
-4697
+4699
 121C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\caniuse-lite\data\features\css-nth-child-of.js132943955926922651 0
 132C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c132943955935266185 0
 110C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\type-fest\source\readonly-deep.d.ts132943970814227225 0
@@ -12,7 +12,7 @@
 94C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\raw-body\index.d.ts132943955939501897 0
 106C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\caniuse-lite\data\regions\VU.js132943955928967320 0
 124C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\terser\node_modules\source-map\dist\source-map.js132943970796163786 0
-66C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\dist132943972840254828 1
+66C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\dist132950674147879310 1
 84C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\is-number132943955932819871 1
 106C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\css-tree\lib\convertor\index.js132943970831833300 0
 71C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\server.js132943955943304207 0
@@ -37,7 +37,7 @@
 96C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\yaml\browser\index.js132943970795339257 0
 87C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\lmdb\LICENSE132943955935126585 0
 145C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo\nested\baz.js132943970800248094 0
-79C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\public\index.html132943955943303435 0
+79C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\public\index.html132950667004230221 0
 99C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\terser\tools\terser.d.ts132943970832349967 0
 106C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\caniuse-lite\data\regions\MX.js132943955928636535 0
 119C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\@parcel\watcher\src\macos\FSEventsBackend.cc132943971047245355 0
@@ -46,7 +46,7 @@
 116C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\svgo\plugins\addAttributesToSVGElement.js132943970795023135 0
 113C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\css-tree\lib\syntax\node\StyleSheet.js132943970842740917 0
 93C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\error-ex\README.md132943970788260904 0
-94C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\public\scss\base\typography.scss132944034923639864 0
+94C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\public\scss\base\typography.scss132950672552709274 0
 103C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\@parcel\transformer-json\src132943970786828264 1
 117C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\caniuse-lite\data\features\font-kerning.js132943955927377188 0
 105C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\nan\nan_callbacks_pre_12_inl.h132943955938279004 0
@@ -54,7 +54,7 @@
 84C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\encodeurl132943955929931760 1
 68C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\public132943955943304207 1
 91C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\semver\semver.js132943955940552171 0
-78C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\public\script.js132943955943304207 0
+78C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\public\script.js132950657886981462 0
 71C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\README.md132943955915513970 0
 114C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\node-gyp-build-optional-packages\bin.js132943970849655642 0
 96C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\toidentifier\index.js132943955942865026 0
@@ -478,6 +478,7 @@
 95C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\yaml\browser\util.js132943970823871626 0
 106C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\caniuse-lite\data\regions\CD.js132943955928287313 0
 89C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\is-binary-path132943955932735165 1
+84C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\dist\index.f3bd186e.js132950674147412869 0
 85C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\is-extglob132943955932819871 1
 133C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\@parcel\package-manager\test\fixtures\has-foo\package.json132943971048033867 0
 98C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\entities\lib\index.d.ts132943970812852325 0
@@ -1175,6 +1176,7 @@
 100C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\iconv-lite\lib\streams.js132943955932528899 0
 107C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\type-fest\source\promisable.d.ts132943970813104041 0
 117C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\type-fest\source\require-at-least-one.d.ts132943970814765991 0
+88C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\dist\index.f3bd186e.js.map132950674147417636 0
 116C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\type-fest\source\require-exactly-one.d.ts132943970815509310 0
 99C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\lmdb\src\compression.cpp132943955937448363 0
 97C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\mdn-data\l10n\index.js132943970790875661 0
@@ -2842,7 +2844,7 @@
 128C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\caniuse-lite\data\features\date-tolocaledatestring.js132943955927187279 0
 103C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\csso\lib\restructure\prepare132943970821106818 1
 131C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage132943971048058862 1
-89C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\dist\index.83d9161e.css.map132943972839864376 0
+89C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\dist\index.83d9161e.css.map132950674147039394 0
 100C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\csso\lib\replace\property132943970815618788 1
 102C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\content-disposition\LICENSE132943955929458434 0
 131C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\csso\lib\restructure\prepare\createDeclarationIndexer.js132943970805319704 0
@@ -3512,7 +3514,7 @@
 120C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\caniuse-lite\data\features\css-unset-value.js132943955927095226 0
 118C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\caniuse-lite\data\features\css-variables.js132943955927095226 0
 118C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\caniuse-lite\data\features\css-when-else.js132943955927095226 0
-85C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\dist\index.83d9161e.css132943972839806361 0
+85C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\dist\index.83d9161e.css132950674146987955 0
 104C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\@parcel\types\lib\unsafe.d.ts132943971047260356 0
 113C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\caniuse-lite\data\features\css-zoom.js132943955927095226 0
 117C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\caniuse-lite\data\features\svg-fragment.js132943955927997208 0
@@ -4693,6 +4695,6 @@
 88C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\node_modules\.bin\svgo.ps1132943970849604648 0
 85C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\dist\index.6ed2f507.css132943955915556499 0
 89C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\dist\index.6ed2f507.css.map132943955915556499 0
-77C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\dist\index.html132943972839806361 0
+77C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\dist\index.html132950674147692792 0
 85C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\dist\public.0ba7c674.js132943972840209837 0
 89C:\Users\soosi\OneDrive\Documents\DECO2017\repository\studbud\dist\public.5759830f.js.map132943955915603249 0
