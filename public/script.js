@@ -45,7 +45,7 @@ function addTask(taskDescription, createdDate, dueDate, priorityRating, estimate
 // Function to display the item on the page
 function renderTask(task) {
   let item = document.createElement("li");
-  item.innerHTML = "<p>" + task.taskDescription + "</p>";
+  item.innerHTML = "<p>" + task.taskDescription + "</p>" + "<p>" + task.dueDate + "<p>";
 
   tasklist.appendChild(item);
 
