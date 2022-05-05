@@ -1,0 +1,47 @@
+nav {
+    background-color: #067F72;
+}
+
+nav {
+    li, a {
+    background-color: white;
+    color: #00544B;
+    padding: 10px;
+    border-radius: 12px;
+    text-decoration: none;
+    margin-bottom: 20px;
+    list-style-type: none;
+    }
+}
+
+nav {
+    ul {
+        padding-inline-start: 0px;
+    }
+}
+
+h1 {
+    color: white;
+    padding: 10px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.current {
+    background-color: #00544B;
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+nav {
+    img {
+        display: flex;
+        align-self: flex-end;
+        padding-top: 300px;
+    }
+}
+
+/* green: #067F72
+dark green: #00544B
+*/

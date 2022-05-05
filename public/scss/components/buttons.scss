@@ -1,0 +1,30 @@
+button {
+    background-color: #00544B;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    border-color: #00544B;
+    border-style: none;
+}
+
+.main {
+    button {
+        padding: 0.3em;
+    }
+    .open-button {
+        margin: 1em;
+        padding: 0.4em;
+    }
+
+    .close-button {
+        border-radius: 50%;
+        width: 2em;
+        height: 2em;
+
+    }
+}
+
+/* 
+green: #067F72
+dark green: #00544B 
+*/

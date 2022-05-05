@@ -10,42 +10,77 @@
 
   </head>
   <body>
-    <form id="taskform">
-      <label for="task">Task:</label>
-      <input type="text" name="task" id="taskInput">
+  
+    <section class="grid-container">
 
-      <br>
-    <!-- Date input -->
-      <label for="dueDate">Due Date: </label>
-      <input type="date" name="dueDate" id="dueDateInput">
-      <br>
-    <!-- Time input -->
-    <label for="completionTime">Completion Time: </label>
-      <input type="time" name="completionTime" id="completionTimeInput">
+      <nav class="nav">
+        <h1>User</h1>
+        <!--add settings and collapse button-->
+        <ul>
+          <li class="current"><a href="#" class="current">Task list</a></li>
+          <li><a href="/html/kanban-board.html">Kanban board</a></li>
+          <li><a href="/html/calendar.html">Calendar</a></li>
+          <li><a href="/html/reading-list.html">Reading list</a></li>
+        </ul>
 
-      <br>
+        <img src="/Settings.e529460d.png">
+      </nav>
 
-    <label for="estimatedTime">Estimated completion time (in mins):</label>
-    <input type="number" name="estimatedTime" id="estimatedTimeInput">
-    <!-- Priority -->
-    <br>
+      <section class="main">
+        <h2>Uni</h2>
+        <button class="open-button">Add new task</button>
 
-    <label for="priority">Task Priority:</label>
-    <select name="prority" id="priorityInput">
-      <option value="">Select one</option>
-      <option value="Low">Low</option>
-      <option value="Medium">Med</option>
-      <option value="High">High</option>
-    </select>
+        <form id="taskform" class="taskform">
+          <div class="addnewtask">
+            <h2>Add New Task</h2>
+            <button type="button" class="close-button">x</button>
+          </div>
+          <br>
+          <label for="task">Task:</label>
+          <input type="text" name="task" id="taskInput">
 
-    <br>
+          <br>
+          <!-- Date input -->
+          <label for="dueDate">Due Date: </label>
+          <input type="date" name="dueDate" id="dueDateInput">
+          <br>
+          <!-- Time input -->
+          <label for="completionTime">Completion Time: </label>
+          <input type="time" name="completionTime" id="completionTimeInput">
+          <br>
+          <!--Est time-->
+          <label for="estimatedTime">Estimated completion time (in mins):</label>
+          <input type="number" name="estimatedTime" id="estimatedTimeInput">
+          <br>
+          <!-- Priority -->
+          <label for="priority">Task Priority:</label>
+          <select name="prority" id="priorityInput">
+            <option value="">Select one</option>
+            <option value="Low">Low</option>
+            <option value="Medium">Med</option>
+            <option value="High">High</option>
+          </select>
+          <br>
+          <!--Submit task button-->
+          <button class="submit-form" type="submit">Submit</button>
+        </form>
+        
+        <ul id="tasklist">
+        </ul>
+        
+        <script src="/index.3b06b0f7.js" defer=""></script>
+      
+      </section>
 
-      <button type="submit">Submit</button>
-    </form>
-    <ul id="tasklist">
-    </ul>
-    <script src="/index.f3bd186e.js"></script>
-    <!-- Swap the scripts to see the working solution -->
-    <!-- <script src="solution.js"></script> -->
+      <aside class="widgets">
+
+      </aside>
+      
+      <aside class="lists">
+
+      </aside>
+
+    </section>
+
   </body>
 </html>
