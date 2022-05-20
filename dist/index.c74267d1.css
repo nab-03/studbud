@@ -60,9 +60,11 @@ h1 {
 }
 
 nav img {
-  align-self: flex-end;
-  padding-top: 300px;
-  display: flex;
+  width: 25px;
+  float: left;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 #taskform {
@@ -124,10 +126,6 @@ button {
   border-style: none;
   border-color: #00544b;
   border-radius: 6px;
-}
-
-.main button {
-  padding: .3em;
 }
 
 .main .open-button {
@@ -218,7 +216,7 @@ h1 {
   font-size: 35px;
 }
 
-h2 {
+h2:not(.internal) {
   color: #fff;
   background-color: #067f72;
   border-radius: 6px;

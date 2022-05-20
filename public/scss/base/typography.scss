@@ -24,7 +24,7 @@ h1 {
   font-size: 35px;
 }
 
-h2 {
+h2:not(.internal){
   font-size: 22px;
   color: white;
   background-color: #067F72;

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39" height="38" viewBox="0 0 39 38">
+  <g id="task_icon" data-name="task icon" transform="translate(-46 -294)">
+    <path id="Ellipse_17" data-name="Ellipse 17" d="M5,2A3,3,0,1,0,8,5,3,3,0,0,0,5,2M5,0A5,5,0,1,1,0,5,5,5,0,0,1,5,0Z" transform="translate(46 308)" fill="#fff"/>
+    <path id="Ellipse_18" data-name="Ellipse 18" d="M5,2A3,3,0,1,0,8,5,3,3,0,0,0,5,2M5,0A5,5,0,1,1,0,5,5,5,0,0,1,5,0Z" transform="translate(46 294)" fill="#fff"/>
+    <path id="Ellipse_19" data-name="Ellipse 19" d="M5,2A3,3,0,1,0,8,5,3,3,0,0,0,5,2M5,0A5,5,0,1,1,0,5,5,5,0,0,1,5,0Z" transform="translate(46 322)" fill="#fff"/>
+    <rect id="Rectangle_23" data-name="Rectangle 23" width="25" height="2" transform="translate(60 298)" fill="#fff"/>
+    <rect id="Rectangle_24" data-name="Rectangle 24" width="25" height="2" transform="translate(60 312)" fill="#fff"/>
+    <rect id="Rectangle_25" data-name="Rectangle 25" width="25" height="2" transform="translate(60 326)" fill="#fff"/>
+  </g>
+</svg>

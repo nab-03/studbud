@@ -17,13 +17,13 @@
         <h1>User</h1>
         <!--add settings and collapse button-->
         <ul>
-          <li class="current"><a href="#" class="current">Task list</a></li>
-          <li><a href="/html/kanban-board.html">Kanban board</a></li>
-          <li><a href="/html/calendar.html">Calendar</a></li>
-          <li><a href="/html/reading-list.html">Reading list</a></li>
+          <li class="current"><a href="#" class="current"> <img src="/tasks%20s.e6e92d49.svg"> Task list</a></li>
+          <li><a href="/html/kanban-board.html"> <img src="/kanban%20us.74106601.svg">Kanban board</a></li>
+          <li><a href="/html/calendar.html"><img src="/cal%20us.b7528cb4.svg">Calendar</a></li>
+          <li><a href="/html/reading-list.html"><img src="/reading%20us.3993eb43.svg">Reading list</a></li>
         </ul>
 
-        <img src="/Settings.e529460d.png">
+        <!-- <img src="images/Settings.png"> -->
       </nav>
 
       <section class="main">
@@ -32,10 +32,12 @@
 
         <form id="taskform" class="taskform">
           <div class="addnewtask">
-            <h2>Add New Task</h2>
+            <h2 class="internal">Add New Task</h2>
+            <!--Close form button-->
             <button type="button" class="close-button">x</button>
           </div>
           <br>
+          <!-- Task description input-->
           <label for="task">Task:</label>
           <input type="text" name="task" id="taskInput">
 
